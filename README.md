@@ -19,19 +19,20 @@ This project analyzes sales data using Python.
 - .png files → graphs
 - before_after → styling comparison
 
-## 📸 Output
+## 🔄 Before vs After
 
-### Sales Trend
+![Before](before_after/BEFORE.png)
+![After](before_after/AFTER.png) 
+
+## 📊 Dashboard Preview
+
 ![Sales Trend](sales_trend.png)
 
-### Profit Bar
-![Profit](profit_bar.png)
+![Profit Analysis](profit_bar.png)
 
-### Relation
-![Relation](relation.png)
+![Correlation Heatmap](heatmap.png)
 
-### Heatmap
-![Heatmap](heatmap.png)
+![Feature Relationship](relation.png)
 
 ## 👨‍💻 Author
 Vikram Prajapati
